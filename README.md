@@ -1,8 +1,8 @@
 # Ex-05-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
-```
+
 **Bhuvaneshwari**
 **212222220008**
-```
+
 
 ## AIM
 
